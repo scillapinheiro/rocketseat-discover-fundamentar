@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/scillapinheiro/nlw2_proffy/blob/main/logo.svg" style="max-width:100%">
+  <img src="https://github.com/scillapinheiro/rocketseat-discover-fundamentar/blob/main/rocketseat-logo.png" style="max-width:100%">
   
 <p align="center">
   <a href="#-projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
