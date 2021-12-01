@@ -3,11 +3,12 @@
   
 <p align="center">
   <a href="#-projetos">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">Licença</a>
 </p>
 
 ## :computer: Projetos
-### Exercício 1 - Transformar notas escolares
+### Exercício 1 - Sistema de notas escolares
 1. Crie um algoritmo que transforme as notas do sistema numérico para sistema de notas em caracteres tipo A B C D E F
 - de 90 para cima - A
 - entre 80 - 89   - B
@@ -21,6 +22,7 @@ ___
 - receitas: [ ]
 - despesas: [ ]
 2. Agora, crie uma função que irá calcular o total de receitas e despesas e irá mostrar uma mensagem se a família está com saldo positivo ou negativo, seguido do valor do saldo
+
 ___
 ### Exercício 3 - Celsius em Fahrenheit
 1. Crie uma função que receba uma string em celsius ou fahrenheit e faça a transformação de uma unidade para outra <br>
@@ -40,3 +42,7 @@ ___
 Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23323330?style=for-the-badge&logo=javascript)
+
+
+## :memo: Licença
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
