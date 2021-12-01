@@ -2,7 +2,7 @@
   <img src="https://github.com/scillapinheiro/nlw2_proffy/blob/main/logo.svg" style="max-width:100%">
   
 <p align="center">
-  <a href="#-projetos">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projetos">Projetos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
